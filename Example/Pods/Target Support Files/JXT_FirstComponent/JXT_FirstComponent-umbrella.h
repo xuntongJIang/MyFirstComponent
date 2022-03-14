@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "JXT_PrintHelloWorld.h"
 
 FOUNDATION_EXPORT double JXT_FirstComponentVersionNumber;
 FOUNDATION_EXPORT const unsigned char JXT_FirstComponentVersionString[];
