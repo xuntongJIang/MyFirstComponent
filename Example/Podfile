@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'JXT_FirstComponent_Example' do
+  pod 'JXT_FirstComponent', :path => '../'
+
+  target 'JXT_FirstComponent_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

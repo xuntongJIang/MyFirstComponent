@@ -1,0 +1,6 @@
+framework module JXT_FirstComponent {
+  umbrella header "JXT_FirstComponent-umbrella.h"
+
+  export *
+  module * { export * }
+}

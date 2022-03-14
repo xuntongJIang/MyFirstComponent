@@ -1,0 +1,16 @@
+PODS:
+  - JXT_FirstComponent (0.0.1)
+
+DEPENDENCIES:
+  - JXT_FirstComponent (from `../`)
+
+EXTERNAL SOURCES:
+  JXT_FirstComponent:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JXT_FirstComponent: 01033eb63c481c3a6e3fa5d73531a5b149a55065
+
+PODFILE CHECKSUM: 3a88f1a9179eb2f566d735c5c63a604102726d6f
+
+COCOAPODS: 1.11.2
